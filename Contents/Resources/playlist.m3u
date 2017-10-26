@@ -1,44 +1,188 @@
-#EXTM3U
-
-#EXTINF:0 tvg-id="1" group-title="Music",DnBTV (rtmp)
-rtmp://fms1.drumandbasslines.com/DnBTV/ch1
-
-#EXTINF:0 tvg-id="2" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="News",Euronews (rtsp)
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-
-#EXTINF:0 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png",Eurosport showcase (http)
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
-#EXTINF:0 tvg-id="4",Planeta (rtmp)
-rtmp://planetaonline.cdnvideo.ru/rr/channel_2
-
-#EXTINF:0 tvg-id="5" tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1038px-HSN_logo.svg.png" group-title="Shopping",Home Shopping Network (rtsp)
-rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
-
-#EXTINF:0 tvg-id="6" tvg-name="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1280px-NDTV_logo.svg.png" group-title="News",NDTV 480p (http://bitgravity.com)
-http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live512
-#EXTINF:0 tvg-id="6" tvg-name="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1280px-NDTV_logo.svg.png" group-title="News",NDTV 240p (http://bitgravity.com)
-http://bglive-a.bitgravity.com/ndtv/247hi/live/native
-#EXTINF:0 tvg-id="6" tvg-name="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1280px-NDTV_logo.svg.png" group-title="News",NDTV 240p (http://indostan.epac.to)
-http://ndtv.indostan.epac.to/ndtv/247lo/live/native
-
-#EXTINF:0 tvg-id="7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Peace_TV_logo_2015.jpeg",Peace TV Asia (rtmp)
-rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
-
-#EXTINF:0 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="News",Russia Today HD (http)
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:0 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="News",Russia Today 480p (http)
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
-#EXTINF:0 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="News",Russia Today 240p (http)
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index400.m3u8
-#EXTINF:0 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary",Russia Today Documentary HD
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-
-#EXTINF:0 tvg-id="9" tvg-name="Sky TG24" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="News",Sky TG24 (rtmp)
-rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
-
-#EXTINF:0 tvg-id="10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png",The Florida Channel (rtmp)
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
-
-#EXTINF:0 tvg-id="11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/UCTV.PNG",University of California Television (rtmp)
-rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,IT: RAI 1 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7278.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7277.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7276.ts
+#EXTINF:-1,IT: RAI 4 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7275.ts
+#EXTINF:-1,IT: RAI 5 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7274.ts
+#EXTINF:-1,IT: ALICE
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7213.ts
+#EXTINF:-1,IT: Animal Planet
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7227.ts
+#EXTINF:-1,IT: Auto Moto TV
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7192.ts
+#EXTINF:-1,IT: BOING
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7214.ts
+#EXTINF:-1,IT: Caccia
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7206.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7225.ts
+#EXTINF:-1,IT: Cielo HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7207.ts
+#EXTINF:-1,IT: Discovery Channal HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7236.ts
+#EXTINF:-1,IT: DISCOVERY SCIENCE HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7237.ts
+#EXTINF:-1,IT: Discovery Travel Living HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7238.ts
+#EXTINF:-1,IT: Dmax
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7188.ts
+#EXTINF:-1,IT: FOCUS
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7202.ts
+#EXTINF:-1,IT: GIALLO
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7203.ts
+#EXTINF:-1,IT: History
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7234.ts
+#EXTINF:-1,IT: Iris
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7215.ts
+#EXTINF:-1,IT: K2
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7228.ts
+#EXTINF:-1,IT: La 7 d
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7204.ts
+#EXTINF:-1,IT: Man Ga
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7232.ts
+#EXTINF:-1,IT: Marcopolo
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7209.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7217.ts
+#EXTINF:-1,IT: Mediaset la 1
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7221.ts
+#EXTINF:-1,IT: MEDIASET la 2
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7220.ts
+#EXTINF:-1,IT: Mediaset La 5
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7219.ts
+#EXTINF:-1,IT: Mediaset La 7
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7218.ts
+#EXTINF:-1,IT: Mediaset Top Crime
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7216.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7222.ts
+#EXTINF:-1,IT: National Geo HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7226.ts
+#EXTINF:-1,IT: Nickelodeon
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7233.ts
+#EXTINF:-1,IT: Nove HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7189.ts
+#EXTINF:-1,IT: NUVOLARI
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7210.ts
+#EXTINF:-1,IT: Onda TV
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7187.ts
+#EXTINF:-1,IT: Paramount Channel
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7201.ts
+#EXTINF:-1,IT: Pesca
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7205.ts
+#EXTINF:-1,IT: Pescare & Cacciare TV
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7235.ts
+#EXTINF:-1,IT: Premium Action  24 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7251.ts
+#EXTINF:-1,IT: Premium Action HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7252.ts
+#EXTINF:-1,IT: PREMIUM Calcio 01 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7199.ts
+#EXTINF:-1,IT: PREMIUM Calcio 02 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7198.ts
+#EXTINF:-1,IT: PREMIUM Calcio 03 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7197.ts
+#EXTINF:-1,IT: PREMIUM Calcio 04 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7196.ts
+#EXTINF:-1,IT: PREMIUM Calcio 05 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7195.ts
+#EXTINF:-1,IT: PREMIUM Calcio 06 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7194.ts
+#EXTINF:-1,IT: Premium Cinema  24
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7255.ts
+#EXTINF:-1,IT: Premium Cinema 2  24 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7253.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7254.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7256.ts
+#EXTINF:-1,IT: Premium Comedy
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7241.ts
+#EXTINF:-1,IT: Premium Crime  24 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7249.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7250.ts
+#EXTINF:-1,IT: Premium Emotion
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7242.ts
+#EXTINF:-1,IT: Premium Energy
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7244.ts
+#EXTINF:-1,IT: Premium Energy  24
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7243.ts
+#EXTINF:-1,IT: Premium Joi  24 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7247.ts
+#EXTINF:-1,IT: Premium Joi HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7248.ts
+#EXTINF:-1,IT: Premium Stories  24 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7245.ts
+#EXTINF:-1,IT: Premium Stories HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7246.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7240.ts
+#EXTINF:-1,IT: PRIMAFILA 1/2
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7265.ts
+#EXTINF:-1,IT: PRIMAFILA 11/12
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7260.ts
+#EXTINF:-1,IT: PRIMAFILA 13/14
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7259.ts
+#EXTINF:-1,IT: PRIMAFILA 15/16
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7258.ts
+#EXTINF:-1,IT: Primafila 17/18 Live
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7257.ts
+#EXTINF:-1,IT: PRIMAFILA 3/4
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7264.ts
+#EXTINF:-1,IT: PRIMAFILA 5/6
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7263.ts
+#EXTINF:-1,IT: PRIMAFILA 7/8
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7262.ts
+#EXTINF:-1,IT: Rai Gulp
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7270.ts
+#EXTINF:-1,IT: RAI Movie
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7272.ts
+#EXTINF:-1,IT: RAI Premium
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7273.ts
+#EXTINF:-1,IT: RAI SCUOLA
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7266.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7268.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7267.ts
+#EXTINF:-1,IT: Rai Storia HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7269.ts
+#EXTINF:-1,IT: Rai yoyo
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7271.ts
+#EXTINF:-1,IT: Real Time
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7230.ts
+#EXTINF:-1,IT: RETE 4 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7231.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7223.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7224.ts
+#EXTINF:-1,IT: Sport Italia
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7193.ts
+#EXTINF:-1,IT: Studio 100
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7186.ts
+#EXTINF:-1,IT: SUPER TENNIS HD
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7200.ts
+#EXTINF:-1,IT: Super TV
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7185.ts
+#EXTINF:-1,IT: TELE ARENA
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7191.ts
+#EXTINF:-1,IT: TELE TICINO
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7190.ts
+#EXTINF:-1,IT: TeleBari TV
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7184.ts
+#EXTINF:-1,IT: Telenorba
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7182.ts
+#EXTINF:-1,IT: TV 2000
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7211.ts
+#EXTINF:-1,IT: Video Calabria
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7183.ts
+#EXTINF:-1,IT: VIDEOLINA
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7212.ts
+#EXTINF:-1,IT:Cartoonito
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/7229.ts
